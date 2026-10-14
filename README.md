@@ -6,7 +6,7 @@ Independent developer building games, dev tools, and hardware projects. I believ
 
 ### 🔭 Currently Building
 
-**[TRIT THRESHOLD](https://github.com/SiliconCoderJames/TritFoundry)** — A hardcore circuit-wiring puzzle game where you route balanced ternary logic on a Mars evacuation storyline. Built with **C++20 core + Godot 4 frontend**, targeting Steam release.
+**TRIT THRESHOLD** — A hardcore circuit-wiring puzzle game where you route balanced ternary logic on a Mars evacuation storyline. Built with **C++20 core + Godot 4 frontend**, targeting Steam release. *Closed source.*
 
 > *Design the circuits. Save the colony. Don't let the ternary flip.*
 
@@ -16,7 +16,7 @@ Independent developer building games, dev tools, and hardware projects. I believ
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[TritFoundry](https://github.com/SiliconCoderJames/TritFoundry)** | Circuit puzzle game (TRIT THRESHOLD) | C++20 · Godot 4 · CMake |
+| **TRIT THRESHOLD** | Circuit puzzle game (closed source) | C++20 · Godot 4 · CMake |
 | **[MiderHive](https://github.com/SiliconCoderJames/MiderHive)** | Digital logic simulation & EDA toolchain | C++20 · Qt6 |
 | **MiderForge** | Next-gen rewrite of MiderHive (in progress) | C++20 · Electron · React |
 
@@ -34,7 +34,7 @@ Hardware:   FPGA · Verilog · RISC-V soft cores · PCB design
 
 ### 🤖 On AI-Assisted Development
 
-I ship production software where AI writes the code and I own the architecture. My role: design docs, interface contracts, code review gates, and test-driven verification. The AI is the workforce; I'm the technical director. If you think that's cheating, check the commit history — every line is reviewed before it lands.
+I ship production software where AI writes the code and I own the architecture. My role: design docs, interface contracts, code review gates, and test-driven verification. The AI is the workforce; I'm the technical director. Every line of code is reviewed and tested before it lands — whether the repo is public or private.
 
 ---
 
