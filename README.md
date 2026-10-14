@@ -6,7 +6,7 @@ Independent developer building games, dev tools, and hardware projects. I believ
 
 ### 🔭 Currently Building
 
-**TRIT THRESHOLD** — A hardcore circuit-wiring puzzle game where you route balanced ternary logic on a Mars evacuation storyline. Built with **C++20 core + Godot 4 frontend**, targeting Steam release. *Closed source.*
+**[TRIT THRESHOLD](https://siliconcoder.itch.io/trit-threshold-mars-evacuation)** — A hardcore circuit-wiring puzzle game where you route balanced ternary logic on a Mars evacuation storyline. Built with **C++20 core + Godot 4 frontend**, targeting Steam release. *Closed source.*
 
 > *Design the circuits. Save the colony. Don't let the ternary flip.*
 
@@ -16,7 +16,7 @@ Independent developer building games, dev tools, and hardware projects. I believ
 
 | Project | What it is | Stack |
 |---|---|---|
-| **TRIT THRESHOLD** | Circuit puzzle game (closed source) | C++20 · Godot 4 · CMake |
+| **[TRIT THRESHOLD](https://siliconcoder.itch.io/trit-threshold-mars-evacuation)** | Circuit puzzle game (closed source) | C++20 · Godot 4 · CMake |
 | **MiderHive** | Digital logic simulation & EDA toolchain | C++20 · Qt6 |
 
 ---
