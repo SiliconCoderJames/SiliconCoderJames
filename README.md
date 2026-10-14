@@ -17,7 +17,7 @@ Independent developer building games, dev tools, and hardware projects. I believ
 | Project | What it is | Stack |
 |---|---|---|
 | **TRIT THRESHOLD** | Circuit puzzle game (closed source) | C++20 · Godot 4 · CMake |
-| **[MiderHive](https://github.com/SiliconCoderJames/MiderHive)** | Digital logic simulation & EDA toolchain | C++20 · Qt6 |
+| **MiderHive** | Digital logic simulation & EDA toolchain | C++20 · Qt6 |
 
 ---
 
